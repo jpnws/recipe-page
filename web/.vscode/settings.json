@@ -1,0 +1,11 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "html.validate.scripts": false,
+  "html.validate.styles": false,
+  "html.format.indentInnerHtml": true,
+  "html.format.extraLiners": "body",
+  "html.format.wrapLineLength": 0,
+  "html.format.indentHandlebars": true
+}
